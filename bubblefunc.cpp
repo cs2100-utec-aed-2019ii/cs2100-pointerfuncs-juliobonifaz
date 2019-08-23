@@ -11,7 +11,7 @@ void * _bubblesort_(void * _array_, void (*_puntero_) (void *, int _i, int _k)){
 		return _array_;
 }
 
-/*------FUNCTIONS------*/
+/*------FUNCTIONS------ hacer un sawp y agregar tam*/ 
 
 void  _b_int_ (void * _vector_, int _i,int _k){
 }
